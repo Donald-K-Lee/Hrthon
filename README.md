@@ -1,7 +1,7 @@
 # Hrthon
 # installation
 ```
-    pip install win10toast
+pip install win10toast
 ```
 # Purpose
 A program that sends you healthy reminders to stretch and prevent eye strain!
